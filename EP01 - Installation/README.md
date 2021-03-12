@@ -25,6 +25,36 @@ Files Section of Python 3.9.2 |
 ------------ |
 Click on the encircled part to download the required version |
 
+<hr>
+
+## 2. Installation
+
+Bravo, you have successfully downloaded the executable file of Python in your system. 🎉
+Now its time to **install** Python in your system.
+
+- Go to the download section where you have downloaded the executable format of Python.
+- Open the **executable** file of Python that you have downloaded.
+- An **installation wizard** will open.
+
+![image](https://user-images.githubusercontent.com/39031660/110965228-ffc03480-8379-11eb-8fb6-ab61a0783c5c.png) |
+------------ |
+Installation Wizard |
+
+- Before clicking the **Install Now** or **Customize Installation**, make sure to **TICK THE "ADD PYTHON 3.9** (your version number) **TO PATH"**.
+
+![image](https://user-images.githubusercontent.com/39031660/110965827-98ef4b00-837a-11eb-9cc3-17ebca4a435e.png) |
+------------ |
+Select ADD Python 3.9 to PATH |
+
+- Now click the **Install Now** or **Customize Installation** (according to your requirement).
+    - Make sure to keep *DEFAULT* everything to avoid any further problem. You may change it when you need after proper knowledge.
+    - Click *NEXT* and *INSTALL* afterwards to Install the Python in your system.
+- After all proper setup you will able to complete the installation process of Python.
+
+![image](https://user-images.githubusercontent.com/39031660/110972086-9f34f580-8381-11eb-8ff3-7e0c4dbe1798.png) |
+------------ |
+Installation Complete Prompt |
+
 
 
 
