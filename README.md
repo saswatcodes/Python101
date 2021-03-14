@@ -1,6 +1,10 @@
 # Python101
 Python 101 is the YouTube Video Series where I will add videos on Python language which will be taught on my experience 
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) | [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) |
+------------ | ------------ |
+
+
 ## Course Episodes
 ![image](https://user-images.githubusercontent.com/39031660/111079716-37b5ac00-8521-11eb-8a1c-f35dcb604802.png) | ![image](https://user-images.githubusercontent.com/39031660/111079690-0c32c180-8521-11eb-87d7-425dd049720e.png) |
 ------------ | ------------ |
