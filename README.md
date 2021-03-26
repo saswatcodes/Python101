@@ -9,6 +9,7 @@ Python 101 is the YouTube Video Series where I will add videos on Python languag
 
 ## Course Documentation
 
-Installation | Storing Information
+EP01 - Installation | EP02 - Storing Information
 ------------ | ------------ |
-[EP01](https://github.com/saswatcodes/Python101/tree/main/EP01%20-%20Installation) | [EP02](https://github.com/saswatcodes/Python101/tree/main/EP02%20-%20Storing%20Information)
+[Read](https://github.com/saswatcodes/Python101/tree/main/EP01%20-%20Installation) | [Read](https://github.com/saswatcodes/Python101/tree/main/EP02%20-%20Storing%20Information)
+[Download](https://drive.google.com/file/d/1Ovpy8wA0Ka_HNvW_DlrQLG4UUXIOLkMM/view?usp=sharing) | [Download](https://drive.google.com/file/d/1uOeFbpdP0-Ld7YzquiyyRnOOw9GvlLPC/view?usp=sharing)
